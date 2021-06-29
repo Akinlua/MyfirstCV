@@ -10,12 +10,15 @@ hr {
   width: 40%
 }
 h1{
-color:#071E5A
+color:#071E5A;
+width: 100%;
 }
 h3{
-color:#071E5A
+color:#071E5A;
+width: 100%;
 }
 img{
   border-radius: 100%;
-  width='100px'
+  width:12.5rem;
+  height: 12.5rem;
 }
